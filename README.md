@@ -3,7 +3,7 @@ This repository contains a Fedora setup instance, intended to be used after a mi
 A minimal installation can be easily achieved if using the Fedora Everything Network Installer.
 Make sure to not select any desktop environment in the installer menu (anaconda).
 
-See https://fedoraproject.org/misc/#everythingor
+See https://fedoraproject.org/misc/#everything
 
 Execution guide:
 
