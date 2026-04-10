@@ -9,6 +9,7 @@ PACKAGES=(
     gnome-tweaks                    # Tweaks
     openrgb                         # Manage RGB devices
     papirus-icon-theme              # Icons
+    default-fonts-core-emoji        # Emojis
 )
 
 sudo dnf install -y "${PACKAGES[@]}"
